@@ -21,12 +21,12 @@
     <string name="terminoscondiciones">Al continuar,acepta nuestra Politica de Privacidad y Rermino de uso</string>
     <string name="next">Siguiente</string>
     <string name="already">¿Ya tienes una cuenta?</string>
-    <string name="verification">Verification</string>
-    <string name="send">Send</string>
+    <string name="verification">Verificacion</string>
+    <string name="send">Enviar</string>
     <string name="reset">Restablecer Contraseña</string>
     <string name="confirmpassword">Confirmar Contraseña</string>
     <string name="coninue">Continuar</string>
     <string name="log">Iniciar sesion</string>
-    <string name="as">Enter your email</string>
+    <string name="as">Introduce Tu Correo</string>
     <string name="titulo">RELIQUIAS VERDE</string>
 </resources>
