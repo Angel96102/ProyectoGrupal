@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Registrotion</string>
+    <string name="text">app</string>
+    <string name="name">Email</string>
+    <string name="correo">Email</string>
+    <string name="contraseña">Password</string>
+    <string name="textview">Fargot password</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet? </string>
+    <string name="register"> Register</string>
+    <string name="Registrase">REGISTRARSE</string>
+    <string name="Nombre">Nombre Completo</string>
+    <string name="Telefono">Numero de Telefono</string>
+    <string name="terminoscondiciones">Al continuar,acepta nuestra Politica de Privacidad y Rermino de uso</string>
+    <string name="next">Siguiente</string>
+    <string name="already">¿Ya tienes una cuenta?</string>
+    <string name="verification">Verification</string>
+    <string name="send">Send</string>
+    <string name="reset">Reset Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="coninue">Continue</string>
+    <string name="log">Iniciar sesion</string>
+    <string name="as">Enter your email</string>
+</resources>
