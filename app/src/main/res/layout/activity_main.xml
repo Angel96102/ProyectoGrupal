@@ -115,7 +115,7 @@
             android:id="@+id/Next"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:backgroundTint="@color/azulclaro"
+            android:backgroundTint="@color/verde"
             android:layout_marginHorizontal="20dp"
             android:layout_marginTop="20px"
             android:padding="15dp"
